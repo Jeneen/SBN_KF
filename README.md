@@ -5,13 +5,13 @@ Jeneen Hadj-Hammou<sup>1</sup>, Aaron Bartholomew<sup>2,*</sup>, Rita C. Bento<s
 
 ---
 
-## Publication (TBC)
+## Publication
 
 This repository contains the data and code for the following publication:
 
 > Hadj-Hammou, J.; Bartholomew, A.; Bento, R.C.; Mohamed, F.A.; Cavalcante, G.H.; Burt, J.A.  
 > *Bleaching Impacts on the Last Remaining Acropora-Dominated Reefs in the United Arab Emirates.*  
-> Diversity 2025, 17(x), xx–xx. https://doi.org/10.3390/xxxxx
+> Diversity 2025, 17(9), 610; https://doi.org/10.3390/d17090610
 
 ---
 
@@ -58,7 +58,7 @@ These last *Acropora* refugia could have served as valuable larval sources for c
   journal = {Diversity},
   year    = {2025},
   volume  = {17},
-  number  = {x},
-  pages   = {xx--xx},
-  doi     = {10.3390/xxxxx}
+  number  = {9},
+  pages   = {610},
+  doi     = {10.3390/d17090610}
 }
